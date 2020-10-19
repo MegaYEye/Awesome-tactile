@@ -1,4 +1,4 @@
-# Awesome-tactile
+# Awesome-tactile-sensors
 
 * [Design File](#design)
 * [Application](#application)
@@ -39,7 +39,7 @@ https://github.com/TianmingQiu/HRI_Tactile
 https://github.com/gaborsoter/multitip
 
 
-### Driver
+## Driver
 
 ### facebook DIGIT
 https://github.com/facebookresearch/digit-interface
