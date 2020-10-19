@@ -1,8 +1,16 @@
 # Awesome-tactile-sensors
 
+
+* [General](#general)
 * [Design File](#design)
 * [Application](#application)
 * [Driver](#driver)
+
+## [General](#general)
+### ME 328 Medical robots
+http://web.stanford.edu/class/me328/
+### CS 227 Experimental Haptics
+http://web.stanford.edu/class/cs277/schedule/index.html
 
 ## [Design File](#design)
 
